@@ -12,16 +12,12 @@
 A Todo List thats linked to a database.
 
 
-![alt tag](https://#)
+![alt tag](https://imgur.com/a/pZ0y4l8)
 
-## How It's Made:
-
-**Tech used:** HTML, CSS, JavaScript, Node, Express, MongoDB, EJS template
+## How It's Made: HTML, CSS, JavaScript, Node, Express, MongoDB, EJS template
 
 
-## Optimizations
-
-When time permitting, I would like to add CSS and practice my UX design to make a more appealing/functional app.
+## Optimizations: I plan to add more styling to this project.
 
 ## Lessons Learned:
 - Creating a database
