@@ -7,7 +7,7 @@ A Todo List thats linked to a database.
 ## How It's Made: HTML, CSS, JavaScript, Node, Express, MongoDB, EJS template
 
 
-## Optimizations: I plan to add more styling to this project.
+## Optimizations: I plan to add more styling and editing features to this project.
 
 ## Lessons Learned:
 - Creating a database
