@@ -12,7 +12,7 @@
 A Todo List thats linked to a database.
 
 
-![alt tag](https://imgur.com/a/pZ0y4l8)
+<img src="https://imgur.com/a/pZ0y4l8">
 
 ## How It's Made: HTML, CSS, JavaScript, Node, Express, MongoDB, EJS template
 
