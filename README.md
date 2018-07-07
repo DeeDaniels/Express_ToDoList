@@ -1,4 +1,4 @@
-# Todo List API
+# To Do List API
 A Todo List thats linked to a database.
 
 
