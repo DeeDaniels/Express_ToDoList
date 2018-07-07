@@ -1,0 +1,11 @@
+body{
+  background: url('notebook.jpg');
+  text-align:center;
+  font-size: 30px;
+}
+h3{
+  margin-top: 40px;
+}
+ul li {
+  list-style-type: none;
+}
